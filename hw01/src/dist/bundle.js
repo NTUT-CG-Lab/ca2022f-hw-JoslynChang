@@ -9425,7 +9425,7 @@ exports.ViewLogicalMaxLeft = -2.0;
 exports.ViewLogicalMaxRight = 2.0;
 exports.ViewLogicalMaxBottom = -2.0;
 exports.ViewLogicalMaxTop = 2.0;
-exports.ResourcesPath = '/src/Resources/';
+exports.ResourcesPath = './Resources/';
 exports.BackImageName = 'back_class_normal.png';
 exports.GearImageName = 'icon_gear.png';
 exports.PowerImageName = 'CloseNormal.png';
@@ -9446,7 +9446,6 @@ exports.DebugTouchLogEnable = false;
 exports.CubismLoggingLevel = live2dcubismframework_1.LogLevel.LogLevel_Verbose;
 exports.RenderTargetWidth = 1900;
 exports.RenderTargetHeight = 1000;
-
 
 /***/ }),
 
